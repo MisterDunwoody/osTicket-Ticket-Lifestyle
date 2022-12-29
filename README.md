@@ -43,9 +43,7 @@ Identify the ticket that needs to be completed. This can be done by searching fo
 Open the ticket and review the details. Make sure that you understand the issue described in the ticket and that you have all the necessary information to resolve it.
 </p>
 <br />
-
 <p>
-<img src="https://i.imgur.com/KpLWf88.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Take the necessary actions to resolve the issue. This may involve troubleshooting the problem, providing support or assistance to the user, or escalating the ticket to another team or agent if necessary.
