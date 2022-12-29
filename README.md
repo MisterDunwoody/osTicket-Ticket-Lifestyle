@@ -28,7 +28,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/c8IbtkT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4c2rNy0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The open tickets above do not have the proper severity settings. The have not been assigned to an owner. In the next phase the tickekts will be properly assigned with the correct priority. 
@@ -36,7 +36,7 @@ The open tickets above do not have the proper severity settings. The have not be
 <br />
 
 <p>
-<img src="https://i.imgur.com/xkZ316M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wZ3zWHr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The open ticket "Ticket #791641" has been assigned to Ronni Amos. The priority status has changed from Normal to Emergency. The ticket was also transferred to System Administrators Department, which was previously under the Support Department.
@@ -52,7 +52,7 @@ Ticket issue was resolved by coordinating with the system admin team. A systems 
 <br />
 
 <p>
-<img src="https://i.imgur.com/rZsSTds.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iGILvCi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Tiket #791641 is now located under the closed tab, and is no longer an open ticket.
