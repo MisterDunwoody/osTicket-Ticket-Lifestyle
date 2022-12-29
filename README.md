@@ -22,8 +22,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Intake
 - Assignment and Communication
-- Working the Issue
-- Resolution
+- Working the Issue/Ticket
+- Resolution of Ticket/Issue
 
 <h2>Lifecycle Stages</h2>
 
@@ -31,7 +31,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/4c2rNy0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The open tickets above do not have the proper severity settings. The have not been assigned to an owner. In the next phase the tickekts will be properly assigned with the correct priority. 
+Identify the ticket that needs to be completed. This can be done by searching for the ticket number or by browsing the list of open tickets in the osTicket application. 
 </p>
 <br />
 
@@ -39,7 +39,7 @@ The open tickets above do not have the proper severity settings. The have not be
 <img src="https://i.imgur.com/wZ3zWHr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The open ticket "Ticket #791641" has been assigned to Ronni Amos. The priority status has changed from Normal to Emergency. The ticket was also transferred to System Administrators Department, which was previously under the Support Department.
+Open the ticket and review the details. Make sure that you understand the issue described in the ticket and that you have all the necessary information to resolve it.
 </p>
 <br />
 
@@ -47,7 +47,7 @@ The open ticket "Ticket #791641" has been assigned to Ronni Amos. The priority s
 <img src="https://i.imgur.com/KpLWf88.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Ticket issue was resolved by coordinating with the system admin team. A systems engineer found the issue of a load balancer. Ticket was then resolved.
+Take the necessary actions to resolve the issue. This may involve troubleshooting the problem, providing support or assistance to the user, or escalating the ticket to another team or agent if necessary.
 </p>
 <br />
 
@@ -55,6 +55,6 @@ Ticket issue was resolved by coordinating with the system admin team. A systems 
 <img src="https://i.imgur.com/iGILvCi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Tiket #791641 is now located under the closed tab, and is no longer an open ticket.
+Close the ticket. Once the issue has been resolved, you can close the ticket by marking it as "solved" or "closed" in the osTicket application. This will move the ticket to the closed ticket list, indicating that it has been resolved. You may also need to provide a brief summary or report on the resolution of the issue.
 </p>
 <br />
